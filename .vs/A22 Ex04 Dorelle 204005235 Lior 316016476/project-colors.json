@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "705be291-6105-43b5-8058-ef5c073f3502": {
+      "ProjectGuid": "705be291-6105-43b5-8058-ef5c073f3502",
+      "DisplayName": "Ex04.Menus.Delegates",
+      "ColorIndex": 0
+    },
+    "16936fef-ef63-4802-99cb-2699ae43c901": {
+      "ProjectGuid": "16936fef-ef63-4802-99cb-2699ae43c901",
+      "DisplayName": "Ex04.Menus.Interfaces",
+      "ColorIndex": 1
+    },
+    "36534ebd-df81-429d-b697-021d74ee23f2": {
+      "ProjectGuid": "36534ebd-df81-429d-b697-021d74ee23f2",
+      "DisplayName": "Ex04.Menus.Test",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

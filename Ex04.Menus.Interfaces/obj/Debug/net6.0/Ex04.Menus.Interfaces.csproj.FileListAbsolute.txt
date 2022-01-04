@@ -1,0 +1,12 @@
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\bin\Debug\net6.0\Ex04.Menus.Interfaces.deps.json
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\bin\Debug\net6.0\Ex04.Menus.Interfaces.dll
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\bin\Debug\net6.0\ref\Ex04.Menus.Interfaces.dll
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\bin\Debug\net6.0\Ex04.Menus.Interfaces.pdb
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.AssemblyInfoInputs.cache
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.AssemblyInfo.cs
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.dll
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\obj\Debug\net6.0\ref\Ex04.Menus.Interfaces.dll
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.pdb
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\bin\Debug\net6.0\Ex04.Menus.Delegates.deps.json
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\bin\Debug\net6.0\Ex04.Menus.Delegates.dll
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\bin\Debug\net6.0\ref\Ex04.Menus.Delegates.dll
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\bin\Debug\net6.0\Ex04.Menus.Delegates.pdb
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\obj\Debug\net6.0\Ex04.Menus.Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\obj\Debug\net6.0\Ex04.Menus.Delegates.AssemblyInfoInputs.cache
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\obj\Debug\net6.0\Ex04.Menus.Delegates.AssemblyInfo.cs
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\obj\Debug\net6.0\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\obj\Debug\net6.0\Ex04.Menus.Delegates.dll
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\obj\Debug\net6.0\ref\Ex04.Menus.Delegates.dll
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\obj\Debug\net6.0\Ex04.Menus.Delegates.pdb
+C:\C#\Ex04\A22 Ex04 Dorelle 204005235 Lior 316016476\Ex04.Menus.Delegates\obj\Debug\net6.0\Ex04.Menus.Delegates.csproj.AssemblyReference.cache
